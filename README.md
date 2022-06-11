@@ -3,7 +3,7 @@
 <h3>Who I am, where I am, purpose and desires:</h3>
 
 <em>
-  <p>👀 I am a 25 year old Brazilian studying Python at Geek University and also CC50 at Estudar Foundation. 
+  <p>👀 I am a 25 year old Brazilian studying Python at Geek University and also CC50 at Estudar Foundation. I work freelance as a Web designer and also study UX/UI Designer. 
 </p>
 <p> 💗 I like topics about technology, investments, and design. As well as complementary subjects, such as psychology.  
 </p>
