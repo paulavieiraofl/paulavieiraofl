@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😊, I'm Paula Vieira</h1>
-<h2 align="center">I have with me the thirst for knowledge and wish everyone to drink from this water... Welcome to my world!. </h2>
+<h2 align="center">I have with me the thirst for knowledge and wish everyone to drink from this water... Welcome to my world!</h2>
 <h3>Who I am, where I am, purpose and desires:</h3>
 
 <em>
