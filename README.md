@@ -4,13 +4,9 @@
 
 <em>
   <p>👀 I am a 25 year old Brazilian studying Python at Geek University and also CC50 at Estudar Foundation. I work freelance as a Web designer and also study UX/UI Designer. 
-</p>
-<p> 💗 I like topics about technology, investments, and design. As well as complementary subjects, such as psychology.  
-</p>
+  <p> 💗 I like topics about technology, investments, and design. As well as complementary subjects, such as psychology.  
   <p>📄 Currently, my goal is to develop myself in the area of programming and improve my skills. 
-</p>
-    <p>🌱 Besides developing myself, I am looking for a community where I can grow and improve myself, because I believe that together we can much more. 
-</p>
+  <p>🌱 Besides developing myself, I am looking for a community where I can grow and improve myself, because I believe that together we can much more. 
   <p>🔭 My desire is to learn different programming languages, improve myself, create projects and deliver solutions, whether for short, medium or long term. 
 </p>
 </em>
